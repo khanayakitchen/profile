@@ -1092,7 +1092,6 @@ a:focus {
   color: #9b9b9b;
   font-size: 0.9rem;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1104,7 +1103,6 @@ a:focus {
   color: #9b9b9b;
   font-size: 0.9rem;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1208,7 +1206,6 @@ a:focus {
   color: #9b9b9b;
   font-size: 0.9rem;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1218,7 +1215,6 @@ a:focus {
   color: #9b9b9b;
   font-size: 0.9rem;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
